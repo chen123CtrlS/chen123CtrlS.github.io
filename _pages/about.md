@@ -16,10 +16,10 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 1 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -28,4 +28,15 @@ Hi~ 😉 I am Xinhao Yao (姚鑫浩). Xinhao Yao is currently pursuing his Ph.D.
 
 My current research interests are reasoning and machine learning, particularly the foundational theoretical analysis. I believe that `a good theory should not only
 explain observations but also inform design`.
+
+
+## Experience
+- 2026.03-now Tencent | Yuan Bao Team | `Qingyun Intern` on DeepSearch & DeepResearch.
+- 2025.07-2026.03 AntGroup | Foundation LLM Team | `Research Intern` on RL & Agentic RL.
+
+## Academic Services
+
+- Conference Reviewer: NeurIPS, ICLR, ICML.
+
+
 
