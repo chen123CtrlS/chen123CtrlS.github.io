@@ -31,8 +31,8 @@ explain observations but also inform design`.
 
 
 ## Experience
-- 2026.03-now Tencent | Yuan Bao Team | `Qingyun Intern` on DeepSearch & DeepResearch.
-- 2025.07-2026.03 AntGroup | Foundation LLM Team | `Research Intern` on RL & Agentic RL.
+- 2026.03-now Tencent: `Qingyun Intern` on DeepSearch & DeepResearch.
+- 2025.07-2026.03 AntGroup Foundation LLM Team: `Research Intern` on RL & Agentic RL.
 
 ## Academic Services
 
