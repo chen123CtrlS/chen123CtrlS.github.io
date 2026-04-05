@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Bio</a>. True gold shines, but we are solid as iron.
+subtitle: <a href='#'>Motto</a>: True gold shines, but we are solid as iron.
 
 profile:
   align: right
