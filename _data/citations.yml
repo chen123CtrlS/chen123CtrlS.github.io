@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-05-04'
 papers:
   _RwlAhUAAAAJ:9yKSN-GCB0IC:
     citations: 16
@@ -13,6 +13,10 @@ papers:
     citations: 0
     title: 'From Synthesis to Kinetics: A Data-Driven Deep Learning Framework for Process-Aware Ferroelectric Dynamics'
     year: Unknown Year
+  _RwlAhUAAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: Skip-Connected Policy Optimization for Implicit Advantage
+    year: '2026'
   _RwlAhUAAAAJ:Y0pCki6q_DkC:
     citations: 18
     title: 'Compositional Generalization from Learned Skills via CoT Training: A Theoretical and Structural Analysis for Reasoning'
