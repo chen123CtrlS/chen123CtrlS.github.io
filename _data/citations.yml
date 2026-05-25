@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-05-25'
 papers:
   _RwlAhUAAAAJ:9yKSN-GCB0IC:
     citations: 17
     title: 'Theoretical Insights into Fine-Tuning Attention Mechanism: Generalization and Optimization'
     year: '2024'
   _RwlAhUAAAAJ:IjCSPb-OGe4C:
-    citations: 6
+    citations: 5
     title: 'The Debate on RLVR Reasoning Capability Boundary: Shrinkage, Expansion, or Both? A Two-Stage Dynamic View'
     year: '2025'
   _RwlAhUAAAAJ:W7OEmFMy1HYC:
@@ -34,6 +34,6 @@ papers:
     title: 'Enhancing In-Context Learning Performance with just SVD-Based Weight Pruning: A Theoretical Perspective'
     year: '2024'
   _RwlAhUAAAAJ:zYLM7Y9cAGgC:
-    citations: 1
+    citations: 2
     title: 'Beyond the Black Box: Theory and Mechanism of Large Language Models'
     year: '2026'
