@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-17'
 papers:
   _RwlAhUAAAAJ:9yKSN-GCB0IC:
     citations: 17
@@ -10,15 +10,15 @@ papers:
     title: 'The Debate on RLVR Reasoning Capability Boundary: Shrinkage, Expansion, or Both? A Two-Stage Dynamic View'
     year: '2025'
   _RwlAhUAAAAJ:W7OEmFMy1HYC:
-    citations: 0
+    citations: 1
     title: 'From Synthesis to Kinetics: A Data-Driven Deep Learning Framework for Process-Aware Ferroelectric Dynamics'
-    year: Unknown Year
+    year: '2026'
   _RwlAhUAAAAJ:WF5omc3nYNoC:
     citations: 1
     title: Skip-Connected Policy Optimization for Implicit Advantage
     year: '2026'
   _RwlAhUAAAAJ:Y0pCki6q_DkC:
-    citations: 18
+    citations: 20
     title: 'Compositional Generalization from Learned Skills via CoT Training: A Theoretical and Structural Analysis for Reasoning'
     year: Unknown Year
   _RwlAhUAAAAJ:YsMSGLbcyi4C:
@@ -34,6 +34,6 @@ papers:
     title: 'Enhancing In-Context Learning Performance with just SVD-Based Weight Pruning: A Theoretical Perspective'
     year: '2024'
   _RwlAhUAAAAJ:zYLM7Y9cAGgC:
-    citations: 2
+    citations: 3
     title: 'Beyond the Black Box: Theory and Mechanism of Large Language Models'
     year: '2026'
