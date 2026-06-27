@@ -31,12 +31,12 @@ explain observations but also inform design`.
 
 
 ## Experience
-- 2026.03-now Tencent: `Qingyun Intern` on DeepSearch & DeepResearch.
-- 2025.07-2026.03 AntGroup Foundation LLM Team: `Research Intern` on RL & Agentic RL.
+- 2026.03-now Tencent: `Project UP Intern` on DeepSearch & General-purpose agent.
+- 2025.07-2026.03 AntGroup BaiLing: `Research Intern` on RL & Agentic RL.
 
 ## Academic Services
 
-- Conference Reviewer: NeurIPS, ICLR, ICML.
+- Reviewer: NeurIPS, ICLR, ICML, AAAI, TMLR, etc.
 
 
 
