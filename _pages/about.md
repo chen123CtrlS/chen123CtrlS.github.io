@@ -32,7 +32,7 @@ explain observations but also inform design`.
 
 ## Experience
 - 2026.03-now Tencent: `Project UP Intern` on DeepSearch & General-purpose agent.
-- 2025.07-2026.03 AntGroup BaiLing: `Research Intern` on RL & Agentic RL.
+- 2025.07-2026.03 AntGroup Ling Team: `Research Intern` on RL & Agentic RL.
 
 ## Academic Services
 
