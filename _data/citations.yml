@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-03'
 papers:
   _RwlAhUAAAAJ:9yKSN-GCB0IC:
     citations: 17
@@ -25,14 +25,14 @@ papers:
     citations: 0
     title: 'GRIP: Geometric Refinement and Adaptive Information Potential for Data Efficiency'
     year: '2026'
-  _RwlAhUAAAAJ:eQOLeE2rZwMC:
-    citations: 0
-    title: 'UniGeM: Unifying Data Mixing and Selection via Geometric Exploration and Mining'
-    year: '2026'
   _RwlAhUAAAAJ:u-x6o8ySG0sC:
     citations: 7
     title: 'Enhancing In-Context Learning Performance with just SVD-Based Weight Pruning: A Theoretical Perspective'
     year: '2024'
+  _RwlAhUAAAAJ:ufrVoPGSRksC:
+    citations: 0
+    title: 'UniGeM: Unifying Data Selection and Mixing via Geometric Exploration and Mining'
+    year: '2026'
   _RwlAhUAAAAJ:zYLM7Y9cAGgC:
     citations: 5
     title: 'Beyond the Black Box: Theory and Mechanism of Large Language Models'
