@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-08'
 papers:
   _RwlAhUAAAAJ:9yKSN-GCB0IC:
-    citations: 17
+    citations: 18
     title: 'Theoretical Insights into Fine-Tuning Attention Mechanism: Generalization and Optimization'
     year: '2024'
   _RwlAhUAAAAJ:IjCSPb-OGe4C:
@@ -18,7 +18,7 @@ papers:
     title: Skip-Connected Policy Optimization for Implicit Advantage
     year: '2026'
   _RwlAhUAAAAJ:Y0pCki6q_DkC:
-    citations: 19
+    citations: 21
     title: 'Compositional Generalization from Learned Skills via CoT Training: A Theoretical and Structural Analysis for Reasoning'
     year: Unknown Year
   _RwlAhUAAAAJ:YsMSGLbcyi4C:
