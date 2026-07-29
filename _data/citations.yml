@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-29'
 papers:
   _RwlAhUAAAAJ:9yKSN-GCB0IC:
     citations: 18
     title: 'Theoretical Insights into Fine-Tuning Attention Mechanism: Generalization and Optimization'
     year: '2024'
   _RwlAhUAAAAJ:IjCSPb-OGe4C:
-    citations: 5
+    citations: 6
     title: 'The Debate on RLVR Reasoning Capability Boundary: Shrinkage, Expansion, or Both? A Two-Stage Dynamic View'
     year: '2025'
   _RwlAhUAAAAJ:W7OEmFMy1HYC:
@@ -17,13 +17,13 @@ papers:
     citations: 1
     title: Skip-Connected Policy Optimization for Implicit Advantage
     year: '2026'
-  _RwlAhUAAAAJ:Y0pCki6q_DkC:
-    citations: 20
-    title: 'Compositional Generalization from Learned Skills via CoT Training: A Theoretical and Structural Analysis for Reasoning'
-    year: Unknown Year
   _RwlAhUAAAAJ:YsMSGLbcyi4C:
     citations: 0
     title: 'GRIP: Geometric Refinement and Adaptive Information Potential for Data Efficiency'
+    year: '2026'
+  _RwlAhUAAAAJ:_FxGoFyzp5QC:
+    citations: 21
+    title: 'Compositional generalization from learned skills via cot training: A theoretical and structural analysis for reasoning'
     year: '2026'
   _RwlAhUAAAAJ:u-x6o8ySG0sC:
     citations: 7
