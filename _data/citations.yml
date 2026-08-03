@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-03'
 papers:
   _RwlAhUAAAAJ:9yKSN-GCB0IC:
     citations: 18
@@ -9,6 +9,10 @@ papers:
     citations: 6
     title: 'The Debate on RLVR Reasoning Capability Boundary: Shrinkage, Expansion, or Both? A Two-Stage Dynamic View'
     year: '2025'
+  _RwlAhUAAAAJ:LkGwnXOMwfcC:
+    citations: 7
+    title: 'Beyond the Black Box: A Survey on the Theory and Mechanism of Large Language Models'
+    year: '2026'
   _RwlAhUAAAAJ:W7OEmFMy1HYC:
     citations: 1
     title: 'From Synthesis to Kinetics: A Data-Driven Deep Learning Framework for Process-Aware Ferroelectric Dynamics'
@@ -22,8 +26,12 @@ papers:
     title: 'GRIP: Geometric Refinement and Adaptive Information Potential for Data Efficiency'
     year: '2026'
   _RwlAhUAAAAJ:_FxGoFyzp5QC:
-    citations: 21
+    citations: 22
     title: 'Compositional generalization from learned skills via cot training: A theoretical and structural analysis for reasoning'
+    year: '2026'
+  _RwlAhUAAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: 'Delegation Intelligence in Deep Search: A Controllable Framework for Disentangled Capability Diagnosis'
     year: '2026'
   _RwlAhUAAAAJ:u-x6o8ySG0sC:
     citations: 7
@@ -32,8 +40,4 @@ papers:
   _RwlAhUAAAAJ:ufrVoPGSRksC:
     citations: 0
     title: 'UniGeM: Unifying Data Selection and Mixing via Geometric Exploration and Mining'
-    year: '2026'
-  _RwlAhUAAAAJ:zYLM7Y9cAGgC:
-    citations: 5
-    title: 'Beyond the Black Box: Theory and Mechanism of Large Language Models'
     year: '2026'
